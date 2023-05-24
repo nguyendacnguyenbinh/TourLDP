@@ -302,7 +302,7 @@ html{
     background-size: cover;
     background-attachment: fixed;
     background-position: top left;
-    height: 100vh;
+    height: 100%;
     color: #fff;
     overflow: hidden;
 }
@@ -337,7 +337,7 @@ html{
 }
 
 .destination__packages{
-    margin: auto;
+    margin: 40px auto;
     max-width: 965px;
     display: flex;
     flex-wrap: wrap;
