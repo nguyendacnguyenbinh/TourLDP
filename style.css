@@ -195,6 +195,8 @@ html{
 .affordable__tour{
     height: 520px;
     width: 32%;
+    
+    overflow: hidden;
 }
 
 .affordable__tour--image{
